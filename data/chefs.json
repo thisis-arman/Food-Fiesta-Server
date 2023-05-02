@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image_url": "https://i.ibb.co/dQLhRL2/wepik-export-20230501201018.png",
+      "name": "Thomas Keller",
+      "years_of_experience": 45,
+      "number_of_recipes": 150,
+      "likes": 12000
+    },
+    {
+      "id": 2,
+      "image_url": "https://i.ibb.co/r2RQFM2/wepik-export-20230501203959.png",
+      "name": "Anthony Bourdain",
+      "years_of_experience": 30,
+      "number_of_recipes": 200,
+      "likes": 45000
+    },
+    {
+      "id": 3,
+      "image_url": "https://i.ibb.co/HPRZT52/wepik-export-20230501200811.png",
+      "name": "Ree Drummond",
+      "years_of_experience": 15,
+      "number_of_recipes": 500,
+      "likes": 6000
+    },
+    {
+      "id": 4,
+      "image_url": "https://i.ibb.co/YWLn06C/wepik-export-20230501202308.png",
+      "name": "Giada De Laurentiis",
+      "years_of_experience": 20,
+      "number_of_recipes": 300,
+      "likes": 18000
+    },
+    {
+      "id": 5,
+      "image_url": "https://i.ibb.co/K6L8n5C/wepik-export-20230501202714.png",
+      "name": "Christopher Kostow",
+      "years_of_experience": 25,
+      "number_of_recipes": 100,
+      "likes": 9000
+    },
+    {
+      "id": 6,
+      "image_url": "https://i.ibb.co/jHMSxWY/wepik-export-20230501203509.png",
+      "name": "Alex Guarnaschelli",
+      "years_of_experience": 18,
+      "number_of_recipes": 250,
+      "likes": 15000
+    }
+  ]
